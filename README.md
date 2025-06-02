@@ -28,7 +28,7 @@ Here's where I'll track my daily lessons. I'll be adding to this as I go!
 | Day | Date       | Topic                     | Link                                                                 |
 |-----|------------|---------------------------|----------------------------------------------------------------------|
 | 01  | 2025-06-01 | Linux Command Line Basics | [Day 1 Learnings](./Day_01/Linux_and_Terminal_Commands/README.md)    |
-| 02  | ---        | *What will I learn next?* | *Coming Soon!*                                                       |
+| 02  | 2025-06-02 | File Navigation & Shell Commands | [Day 2 Learnings](./Day_02/File_Navigation_&_Shell_Commands/README.md) |
 *... More days to come!*
 
 ---
