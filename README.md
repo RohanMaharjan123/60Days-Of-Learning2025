@@ -30,6 +30,7 @@ Here's where I'll track my daily lessons. I'll be adding to this as I go!
 | 01  | 2025-06-01 | Linux Command Line Basics | [Day 1 Learnings](./Day_01/Linux_and_Terminal_Commands/README.md)    |
 | 02  | 2025-06-02 | File Navigation & Shell Commands | [Day 2 Learnings](./Day_02/File_Navigation_&_Shell_Commands/README.md) |
 | 03  | 2025-06-03 | Linux File Permissions | [Day 3 Learnings](./Day_03/Linux_File_Permissions/README.md) |
+| 04  | 2025-06-04 | User and Group Management in Linux | [Day 4 Learnings](./Day_04/User_Management_in_Linux/README.md) |
 
 *... More days to come!*
 
