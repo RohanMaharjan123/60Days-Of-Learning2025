@@ -37,7 +37,7 @@ APT works with `.deb` packages.
 
 YUM works with `.rpm` packages.
 
-### Common YUM Commands:
+### Common YUM Commands
 
 | Command                         | Description                              |
 |----------------------------------|------------------------------------------|
