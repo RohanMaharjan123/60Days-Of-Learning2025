@@ -32,6 +32,7 @@ Here's where I'll track my daily lessons. I'll be adding to this as I go!
 | 03  | 2025-06-03 | Linux File Permissions | [Day 3 Learnings](./Day_03/Linux_File_Permissions/README.md) |
 | 04  | 2025-06-04 | User and Group Management in Linux | [Day 4 Learnings](./Day_04/User_Management_in_Linux/README.md) |
 | 05  | 2025-06-05 | Linux Package Management  | [Day 5 Learnings](./Day_05/Linux_Package_Management/README.md) |
+| 06  | 2025-06-06 | Bash Scripting            | [Day 6 Learnings](./Day_06/Bash_Scripting/README.md)         |
 
 *... More days to come!*
 
