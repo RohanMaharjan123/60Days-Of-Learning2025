@@ -114,3 +114,4 @@ status = "Adult" if age >= 18 else "Minor"
 print(status)
 ```
 
+`60DaysOfLearning` `LearningWithLeapfrog` `Python`  `PythonProgramming` `PythonConditions` `Day08`
