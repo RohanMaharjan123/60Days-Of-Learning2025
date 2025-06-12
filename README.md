@@ -36,8 +36,12 @@ I'll be updating this table every day to track my learning journey.
 | 05  | 2025-06-05 | Linux Package Management           | [Day 5 Learnings](./Day_05/Linux_Package_Management/README.md)      |
 | 06  | 2025-06-06 | Bash Scripting                     | [Day 6 Learnings](./Day_06/Bash_Scripting/README.md)                |
 | 07  | 2025-06-07 | Python Basics                      | [Day 7 Learnings](./Day_07/Python_Basics/README.md)                 |
+| 08  | 2025-06-08 | Python Conditionals                | [Day 8 Learnings](./Day_08/Python_Conditionals/README.md)           |
+| 09  | 2025-06-09 | Python Functions                   | [Day 9 Learnings](./Day_09/Python_Functions/README.md)              |
+| 10  | 2025-06-10 | Python Data Structures             | [Day 10 Learnings](./Day_10/Python_Data_Structures/README.md)       |
+| 11  | 2025-06-11 | Object-Oriented Programming      | [Day 11 Learnings](./Day_11/Object-Oriented_Programming/README.md)  |
 
-*... more days to come!*
+_... more days to come!__
 
 ---
 
