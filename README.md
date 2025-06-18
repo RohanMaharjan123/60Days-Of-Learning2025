@@ -40,6 +40,13 @@ I'll be updating this table every day to track my learning journey.
 | 09  | 2025-06-09 | Python Functions                   | [Day 9 Learnings](./Day_09/Python_Functions/README.md)              |
 | 10  | 2025-06-10 | Python Data Structures             | [Day 10 Learnings](./Day_10/Python_Data_Structures/README.md)       |
 | 11  | 2025-06-11 | Object-Oriented Programming      | [Day 11 Learnings](./Day_11/Object-Oriented_Programming/README.md)  |
+| 12  | 2025-06-12 | Python - File I/O                  | [Day 12 Learnings](./Day_12/Python_File_IO/README.md)                                       |
+| 13  | 2025-06-13 | Python - Exceptions                | [Day 13 Learnings](./Day_13/Python_Exceptions/README.md)                                    |
+| 14  | 2025-06-14 | Python - pip & Package Management  | [Day 14 Learnings](./Day_14/Python_pip_Package_Management/README.md)                        |
+| 15  | 2025-06-15 | SQL - Introduction                 | [Day 15 Learnings](./Day_15/SQL_Introduction/README.md)                                     |
+| 16  | 2025-06-16 | SQL - Database Normalization       | [Day 16 Learnings](./Day_16/Database_Normalization/README.md)                             |
+| 17  | 2025-06-17 | SQL - Creating Tables              | [Day 17 Learnings](./Day_17/Creating_Tables_and_Relationships(ER_Model)/README.md)          |
+| 18  | 2025-06-18 | SQL - CRUD Operations              | [Day 18 Learnings](./Day_18/CRUD_Operations/README.md)                                      |
 
 _... more days to come!__
 
@@ -50,11 +57,11 @@ _... more days to come!__
 - [x] Linux & Terminal Commands
 - [x] Bash Scripting (Advanced)
 - [x] Python Basics
+- [ ] Databases (SQL & NoSQL)
 - [ ] Git & GitHub
 - [ ] Web Development (HTML, CSS, JavaScript)
 - [ ] Docker & Containers
 - [ ] APIs & Postman
-- [ ] Databases (SQL & NoSQL)
 - [ ] Cloud Fundamentals (AWS, GCP, Azure)
 - [ ] DevOps & CI/CD Basics
 
