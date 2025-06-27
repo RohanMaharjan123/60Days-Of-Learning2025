@@ -67,4 +67,13 @@ CREATE TABLE StoreDim (
 );
 ```
 
+## Key Benefits of Star Schema
+
+| Advantage         | Description                                       |
+|-------------------|---------------------------------------------------|
+| Simplicity        | Easy for business users to understand             |
+| Query Performance | Denormalized design improves speed                |
+| OLAP Friendly     | Best suited for analytical processing             |
+| Easy Joins        | Fact table links to dimensions using simple keys  |
+
 `60DaysOfLearning` `LearningWithLeapfrog` `sql`  `Query`  `Day25` `StarSchema`
