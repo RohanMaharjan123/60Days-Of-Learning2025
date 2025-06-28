@@ -1,4 +1,4 @@
-# 📘 Day 27 of #60DaysOfLearning2025
+# 📘 Day 28 of #60DaysOfLearning2025
 
 ## Topic: SQL Server Reporting Services (SSRS)
 
@@ -70,5 +70,24 @@ Although full practice requires a SQL Server and SSRS environment, conceptually:
 - Easily accessible via browser or mobile.
 
 ---
+
+## 🧪 Practice Commands
+
+While SSRS is GUI-based, I noted:
+
+- Using **ReportServer database** to query report execution logs:
+
+```sql
+SELECT TOP 10
+    UserName,
+    ExecutionTime,
+    ReportPath,
+    Status,
+    TimeDataRetrieval,
+    TimeProcessing,
+    TimeRendering
+FROM ExecutionLog3
+ORDER BY ExecutionTime DESC;
+```
 
 `60DaysOfLearning` `LearningWithLeapfrog` `sql` `Day28` `SQL` `SSRS`
