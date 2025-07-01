@@ -25,22 +25,27 @@ Today, I learned how to **deploy SSRS reports to a Report Server**, enabling cen
 
 ### ⚙️ Deployment Steps
 
-✅ **1️⃣ Prepare the Report**  
+ **1️⃣ Prepare the Report**  
+
 - Finalize and test in **Report Builder** or **Visual Studio SSDT**.
 
-✅ **2️⃣ Configure Data Sources**  
+ **2️⃣ Configure Data Sources**  
+
 - Ensure the report uses shared data sources for easier management.
 - Test connections with correct credentials (Windows Auth or SQL Auth).
 
-✅ **3️⃣ Open Report Server URL**  
+ **3️⃣ Open Report Server URL**  
+
 - Usually: `http://<servername>/Reports` for the web portal.
 - `http://<servername>/ReportServer` for the backend.
 
-✅ **4️⃣ Deploy Using Visual Studio SSDT**:
+ **4️⃣ Deploy Using Visual Studio SSDT**:
+
 - Set **TargetServerURL** (e.g., `http://localhost/ReportServer`).
 - Right-click project → Deploy.
 
-✅ **5️⃣ Deploy Using Web Portal**:
+ **5️⃣ Deploy Using Web Portal**:
+
 - Go to the folder where you want to upload the report.
 - Use **Upload** to add `.rdl` files.
 - Configure data source references post-upload.
@@ -49,13 +54,12 @@ Today, I learned how to **deploy SSRS reports to a Report Server**, enabling cen
 
 ### 🛠️ Post Deployment Actions
 
-✅ Test report rendering on the server.  
-✅ Configure **subscriptions and schedules** for automated delivery.  
-✅ Set **security permissions**:
+- Test report rendering on the server.  
+- Configure **subscriptions and schedules** for automated delivery.  
+- Set **security permissions**:
 - Assign `Browser` role for viewers.
 - Use `Content Manager` for admin control.
-
-✅ Use folder structures to organize reports:
+- Use folder structures to organize reports:
 - `/Finance/MonthlyReports/`
 - `/Sales/DashboardReports/`
 
@@ -63,9 +67,9 @@ Today, I learned how to **deploy SSRS reports to a Report Server**, enabling cen
 
 ## 🧪 Practice Plan
 
-✅ Deploy a `Sales Summary` report to your local SSRS server.  
-✅ Test with different user accounts to validate access.  
-✅ Set a weekly subscription to email reports to your email.
+- Deploy a `Sales Summary` report to your local SSRS server.  
+- Test with different user accounts to validate access.  
+- Set a weekly subscription to email reports to your email.
 
 ---
 
