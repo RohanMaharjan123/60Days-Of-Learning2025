@@ -34,6 +34,7 @@ The **Data Flow Task** is the **core of ETL in SSIS**, allowing data to flow fro
 
 ✅ **Extraction:** Connects to data sources like SQL Server, CSV, Excel, APIs to fetch data.  
 ✅ **Transformation:** Applies operations such as:
+
 - Data cleansing and validation
 - Splitting and merging datasets
 - Type conversion
