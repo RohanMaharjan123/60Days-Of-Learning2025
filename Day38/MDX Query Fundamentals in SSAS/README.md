@@ -57,4 +57,3 @@ Functions in MDX
 - CURRENTMEMBER: Reference the current context member.
 - FILTER: Filter sets based on conditions.
 - ORDER: Sort results.
-
