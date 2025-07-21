@@ -101,3 +101,5 @@ Key Takeaways
 - Use forms.Form for custom forms and forms.ModelForm for model-backed forms.
 - Integrated seamlessly with views and templates for dynamic form rendering and submission.
 - Enhances productivity when building create/update features in Django applications.
+
+`60DaysOfLearning` `LearningWithLeapfrog` `Day49` `Django Forms` `Django Form Validation` `Django Form Fields` `Django Form Rendering` `Django Form Submission`
