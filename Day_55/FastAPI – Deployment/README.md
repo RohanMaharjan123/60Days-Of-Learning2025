@@ -68,3 +68,5 @@ This image automatically sets up Gunicorn with Uvicorn workers for FastAPI.
 - Place FastAPI behind a reverse proxy (Nginx/Caddy) for HTTPS and static file handling.
 - Use Docker for consistency, scalability, and easy deployment.
 - Monitor your services and logs for reliability in production.
+
+`60DaysOfLearning` `LearningWithLeapfrog` `Day55` `FastAPI – Deployment` `FastAPI` `Python` `APIs` `WebFrameworks`
