@@ -1,4 +1,4 @@
-Day 56 of #60DaysOfLearning2025
+# 📘 Day 56 of #60DaysOfLearning2025
 
 🧠 Topic: Next.js – Fundamentals & Setup
 
