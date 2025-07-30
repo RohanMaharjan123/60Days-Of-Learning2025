@@ -3,12 +3,14 @@
 ## Topic: Data Fetching (Static + Server-side) in Next.js
 
 Today I explored the core data fetching methods in Next.js:
+
 - getStaticProps (SSG)
 - getServerSideProps (SSR)
 
 ⸻
 
 🔗 Resources
+
 - [Next.js Data Fetching Docs](https://nextjs.org/docs/basic-features/data-fetching)
 - [JSONPlaceholder API](https://jsonplaceholder.typicode.com/)
 
